@@ -1,6 +1,6 @@
 January 23, 2025
 
-Dear Secretnodes Community,
+Dear Secret Community,
 
 We are excited to about the return of the Secretnodes Explorer! In May 2023, we had to temporarily shut down the explorer due to insufficient funding and lack of network support. Contrary to some false claims, we never abandoned our mission. The shutdown was solely a result of financial challenges and a lack of continued formal support.
 
